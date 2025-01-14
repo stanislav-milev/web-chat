@@ -1,2 +1,2 @@
 # web-chat
-dmo web chat project
+demo web chat project
